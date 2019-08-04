@@ -1,0 +1,14 @@
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.BL\LibProject.BL.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Client\LibProject.Client.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Exceptions\LibProject.Exceptions.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Exceptions\LibProject.Exceptions.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Exceptions\LibProject.Exceptions.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Exceptions\LibProject.Exceptions.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Globals\LibProject.Globals.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Globals\LibProject.Globals.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Globals\LibProject.Globals.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Interfaces\LibProject.Interfaces.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Interfaces\LibProject.Interfaces.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Interfaces\LibProject.Interfaces.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Models\LibProject.Models.csproj;x86
+C:\документы\учеба\села\C# in depth\проект\LibProject\LibProject.Models\LibProject.Models.csproj;x86
